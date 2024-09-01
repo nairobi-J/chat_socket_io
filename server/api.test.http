@@ -1,0 +1,10 @@
+
+### Signin Request
+POST http://localhost:5000/signin
+Content-Type: application/json
+
+{
+    "email": "johndoe@example.com",
+    "password": "password123"
+}
+
